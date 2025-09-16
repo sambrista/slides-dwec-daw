@@ -116,6 +116,7 @@ Material proporcionado por el profesor.
 Línea de tiempo <!-- .element: class="fragment" -->
 
 ---
+
 <!-- .slide: data-background-color="#dddddd" -->
 
 ## Cuestionario inicial
