@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>Diapositivas DWEC</title>
+		<title>reveal.js</title>
 
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
@@ -15,19 +15,16 @@
 	</head>
 	<body>
 		<div class="reveal">
-			<div class="slides">
-				<section>
-					<ul>
-						<li>
-							<a href="ut0.html">Presentación</a>
-						</li>
-						<!--<li>
-							<a href="ut1.html">UT 1</a>
-						</li>-->
-					</ul>
-				</section>
-			</div>
-		</div>
+            <div class="slides">
+                <section data-markdown="ut0.md"
+                         data-separator="^^\r?\n---\r?\n$"
+                         data-separator-vertical="^\r?\n------\r?\n$"
+                         data-separator-notes="^Note:"
+                         data-charset="utf-8"
+                         data-transition="slide">
+                </section>
+            </div>
+        </div>
 
 		<script src="dist/reveal.js"></script>
 		<script src="plugin/notes/notes.js"></script>
