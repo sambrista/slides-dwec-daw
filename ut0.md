@@ -4,7 +4,7 @@
 
 IES Francisco de los Ríos
 
-Curso 2025 / 2026
+Curso 2026 / 2027
 
 Código del Módulo: 0612
 
